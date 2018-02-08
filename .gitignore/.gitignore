@@ -1,0 +1,10 @@
+*.class
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+*.swp
+local.properties
+.classpath
+.loadpath
